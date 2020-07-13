@@ -1,0 +1,2 @@
+Taxonomy utilizza il template dell'archive di dafault, per creare un template personalizzato creare un nuovo file con il seguente nome.
+taxonomy-{taxonomy-slug}.php
